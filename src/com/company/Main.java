@@ -11,5 +11,6 @@ public class Main {
         System.out.println("Hey boys");
 
         System.out.println("Hey boys");
+        System.out.println("Hey Girl");
     }
 }
